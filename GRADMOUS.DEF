@@ -1,0 +1,11 @@
+NAME		GRADMOUS
+DESCRIPTION	'Mouse Add On for Fullscreen WinOS2 (c) S.Knodt'
+EXETYPE		WINDOWS
+STUB		'WINSTUB.EXE'
+CODE		PRELOAD FIXED
+DATA		PRELOAD FIXED
+HEAPSIZE	2048
+STACKSIZE	5120
+EXPORTS		MouseHookProc
+            WndMain
+            AboutDlgProc

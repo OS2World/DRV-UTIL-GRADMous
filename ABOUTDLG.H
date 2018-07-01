@@ -1,0 +1,4 @@
+#define IDD_COMMENT	107
+#define IDD_PROGRAM	106
+#define IDD_VERSION	103
+#define IDD_ABOUT 100
